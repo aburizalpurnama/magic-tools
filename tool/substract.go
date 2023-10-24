@@ -1,6 +1,6 @@
 package tool
 
 // It substract a value with b
-func Substract(a, b float64) float64 {
+func Substract(a, b int) int {
 	return a - b
 }
